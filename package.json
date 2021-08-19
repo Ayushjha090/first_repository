@@ -1,0 +1,11 @@
+{
+  "name": "multiple_html_serving",
+  "version": "1.0.0",
+  "description": "This Multiple HTML page serving.",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Guy",
+  "license": "ISC"
+}
